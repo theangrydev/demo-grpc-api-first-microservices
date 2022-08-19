@@ -14,3 +14,7 @@ This example assumes the teams are working in a monorepo. Other approaches are e
 ## Benefits of API-first apporach
 
 For details about why to use API-first apporach see our artcile on InfoQ https://www.infoq.com/articles/api-mocking-break-dependencies/
+
+## Video demo
+
+[![API-first Workflow For Developing and Testing gRPC Microservices](https://img.youtube.com/vi/470t4pE7ec4/0.jpg)](https://www.youtube.com/watch?v=470t4pE7ec4)
