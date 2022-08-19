@@ -28,7 +28,7 @@ jobs:
           push: true          
           context: trafficparrot
           file: trafficparrot/TrafficParrotDockerfile
-          tags: ${{ secrets.DOCKER_REGISTRY_HOST }}/trafficparrot/trafficparrot:latest
+          tags: ${{ secrets.DOCKER_REGISTRY_HOST }}/trafficparrot/trafficparrot:${{ github.run_number }}
           secrets: |
             "tp_file=${{ secrets.TP_FILE }}"
 
