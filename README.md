@@ -11,3 +11,6 @@ This example assumes the teams are working in a monorepo. Other approaches are e
 * DOCKER_REGISTRY_PASS - password for the Docker registry
 * TP_FILE - HTTP URL of the Traffic Parrot ZIP file you got after filling in the form https://trafficparrot.com/trial.html
 
+## Benefits of API-first apporach
+
+For details about why to use API-first apporach see our artcile on InfoQ https://www.infoq.com/articles/api-mocking-break-dependencies/
